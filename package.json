@@ -34,5 +34,8 @@
   "scripts": {
     "install": "./node_modules/bower-npm-install/bin/bower-npm-install",
     "start": "node_modules/docpad/bin/docpad-server"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.10"
   }
 }
